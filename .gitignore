@@ -1,0 +1,9 @@
+public/typo3temp/*
+# var/cache
+vendor/*
+composer.lock
+.env
+.DS_store
+.vscode
+.vs_code
+.node_modules
